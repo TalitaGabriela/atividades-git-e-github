@@ -1,3 +1,4 @@
 Anotações de erros encontrados durante o desenvolvimento:
 
-- Nenhum erro registrado até o momento.
+- Caminho relativo das imagens estava incorreto; corrigido para "img/nome.png".
+- Esquecido o link do style.css no index.html; corrigido.
